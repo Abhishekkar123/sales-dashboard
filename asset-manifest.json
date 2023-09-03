@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sales-dashboard/static/css/main.5e1e408e.css",
-    "main.js": "/sales-dashboard/static/js/main.85e4b14b.js",
+    "main.css": "/sales-dashboard/static/css/main.5b30d447.css",
+    "main.js": "/sales-dashboard/static/js/main.3170252f.js",
     "static/js/787.bcab7911.chunk.js": "/sales-dashboard/static/js/787.bcab7911.chunk.js",
     "static/media/logo.svg": "/sales-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sales-dashboard/index.html",
-    "main.5e1e408e.css.map": "/sales-dashboard/static/css/main.5e1e408e.css.map",
-    "main.85e4b14b.js.map": "/sales-dashboard/static/js/main.85e4b14b.js.map",
+    "main.5b30d447.css.map": "/sales-dashboard/static/css/main.5b30d447.css.map",
+    "main.3170252f.js.map": "/sales-dashboard/static/js/main.3170252f.js.map",
     "787.bcab7911.chunk.js.map": "/sales-dashboard/static/js/787.bcab7911.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e1e408e.css",
-    "static/js/main.85e4b14b.js"
+    "static/css/main.5b30d447.css",
+    "static/js/main.3170252f.js"
   ]
 }
