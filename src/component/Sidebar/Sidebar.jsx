@@ -11,6 +11,7 @@ import MailIcon from '@mui/icons-material/Mail';
 import FeedbackIcon from '@mui/icons-material/Feedback';
 import MessageIcon from '@mui/icons-material/Message';
 import ManageAccountsIcon from '@mui/icons-material/ManageAccounts';
+import { Link } from 'react-router-dom';
 export default function Sidebar() {
   return (
     <div className='sidebar'>
@@ -35,14 +36,18 @@ export default function Sidebar() {
            <div className="sidebarmenu">
                 <h3 className='sidebartitle'>Quick Menu</h3>
                 <ul className="sidebarlist">
+                        <Link to="/sales-dashboard/users" className='Link'>
                 <li className="sidebarlistItem ">
                         <GroupIcon  className='sidebarIcon'/>
                                Users
                         </li>
+                        </Link>
+                        <Link to="/products" className='Link'>
                         <li className="sidebarlistItem">
                           <CategoryIcon  className='sidebarIcon'/>
                                 products
                         </li>
+                        </Link>
                         <li className="sidebarlistItem">
                            <AccountBalanceIcon  className='sidebarIcon'/>
                                 transaction

@@ -42,3 +42,59 @@ export const data = [
       amt: 2100,
     },
   ];
+
+
+  export const userRows = [
+    { id: 1,
+       username:"jon snow " ,
+      avatar:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZAq08u4YaR0Jsu2CgeptdxC74y-9QEeFYEAb6YHP&s",
+      email:"snowGmail.com",
+      status:"active",
+      transaction:"$120.00",
+
+    },
+    { id: 2,
+      username:"jon snow " ,
+     avatar:
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZAq08u4YaR0Jsu2CgeptdxC74y-9QEeFYEAb6YHP&s",
+     email:"snowGmail.com",
+     status:"active",
+     transaction:"$120.00",
+
+   },
+   { id: 3,
+    username:"jon snow " ,
+   avatar:
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZAq08u4YaR0Jsu2CgeptdxC74y-9QEeFYEAb6YHP&s",
+   email:"snowGmail.com",
+   status:"active",
+   transaction:"$120.00",
+
+ }, { id: 4,
+  username:"jon snow " ,
+ avatar:
+ "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZAq08u4YaR0Jsu2CgeptdxC74y-9QEeFYEAb6YHP&s",
+ email:"snowGmail.com",
+ status:"active",
+ transaction:"$120.00",
+
+},{ id: 5,
+  username:"jon snow " ,
+ avatar:
+ "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZAq08u4YaR0Jsu2CgeptdxC74y-9QEeFYEAb6YHP&s",
+ email:"snowGmail.com",
+ status:"active",
+ transaction:"$120.00",
+
+},{ id: 6,
+  username:"jon snow " ,
+ avatar:
+ "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZAq08u4YaR0Jsu2CgeptdxC74y-9QEeFYEAb6YHP&s",
+ email:"snowGmail.com",
+ status:"active",
+ transaction:"$120.00",
+
+},
+    
+  ];
